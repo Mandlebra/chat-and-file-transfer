@@ -120,7 +120,6 @@ def send_file_thread(listenCode, file_name):
 
 
 def send_file(sock1):
-    print("send_file in chatclient endered")
     # using sock2
     while True:
         # print(sock1) 
